@@ -1,2 +1,4 @@
 line one of file 1 of folder "two"
 second line in master branch
+
+added pink mode to file 1 of folder "two"
